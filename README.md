@@ -1,6 +1,6 @@
 
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/150701955-f1f514a8-82e6-462f-9fc9-8926b6b7de3e.png">
   <br />
  Nextcloud Guide
 </h1>
@@ -10,7 +10,7 @@
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/150701957-29868a74-8cba-4867-81eb-1de95fbe701d.png">
   <br />
 </p>
 
@@ -34,12 +34,6 @@
 # Getting Started with Nextcloud
 [Back to the Top](https://github.com/mikeroyal/Nextcloud-Guide#table-of-contents)
 
-[Nextcloud GitHub](https://github.com/nextcloud)
-
-[Nextcloud App Store](https://apps.nextcloud.com)
-
-[Nextcloud Developer Program](https://nextcloud.com/developer)
-
 [Nextcloud](https://nextcloud.com) is an industry-leading, on-premises content collaboration platform for file sync & share and communication server. It is fully open source and you can host it yourself or pay a company to do it for you. Also checkout the following links below:
 
    - [Nextcloud App Store](https://apps.nextcloud.com)
@@ -48,9 +42,21 @@
 
    - [Nextcloud Developer Program](https://nextcloud.com/developer)
 
-[Nextcloud Desktop Client](https://nextcloud.com/install/#install-clients) is a tool to synchronize files from Nextcloud Server with your computer.
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/150701961-ac8be115-34c1-4012-bd69-d1f22a10e48c.png">
+  <br />
+Nexcloud login screen
+</p>
 
 [Nextcloud Hub](https://nextcloud.com/hub/) is a tool that allows you to share and collaborate on documents, send and receive email, manage your calendar and have video chats without data leaks. As fully on-premises solution, Nextcloud Hub provides the benefits of online collaboration without the compliance and security risks.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/150701964-df1dd8d9-1d3a-4376-81e8-f49439fb4356.png">
+  <br />
+Nexcloud Hub
+</p>
+
+[Nextcloud Desktop Client](https://nextcloud.com/install/#install-clients) is a tool to synchronize files from Nextcloud Server with your computer.
 
 [Nextcloud Deck](https://apps.nextcloud.com/apps/deck) is a kanban style organization tool aimed at personal planning and project organization for teams integrated with Nextcloud.
 
