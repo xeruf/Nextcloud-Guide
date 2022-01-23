@@ -17,7 +17,7 @@
 
 # Table of Contents
 
-1. [Getting Started with Nextcloud](https://github.com/mikeroyal/Nextcloud-Guide#)
+1. [Getting Started with Nextcloud](https://github.com/mikeroyal/Nextcloud-Guide#getting-started-with-nextcloud)
 
 2. [Networking](https://github.com/mikeroyal/Nextcloud-Guide#networking)
 
