@@ -5,42 +5,35 @@
  Nextcloud Guide
 </h1>
 
-#### A guide covering Nextcloud including the applications, libraries and tools that will make you a better and more efficient Nextcloud.
+**A guide covering Nextcloud including the applications, libraries and tools that will make you a better and more efficient Nextcloud.**
 
-**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+*Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/)
+using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)
+or using something like [pandoc](https://pandoc.org).*
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/150701957-29868a74-8cba-4867-81eb-1de95fbe701d.png">
-  <br />
 </p>
 
 
-# Table of Contents
+# Contents
 
 1. [Getting Started with Nextcloud](https://github.com/mikeroyal/Nextcloud-Guide#getting-started-with-nextcloud)
-
 2. [Networking](https://github.com/mikeroyal/Nextcloud-Guide#networking)
-
 3. [Databases](https://github.com/mikeroyal/Nextcloud-Guide#databases)
-
 4. [Docker](https://github.com/mikeroyal/Nextcloud-Guide#docker)
-
 5. [Kubernetes](https://github.com/mikeroyal/Nextcloud-Guide#kubernetes)
-
 6. [Ansible](https://github.com/mikeroyal/Nextcloud-Guide#ansible)
-
-
 
 # Getting Started with Nextcloud
 [Back to the Top](https://github.com/mikeroyal/Nextcloud-Guide#table-of-contents)
 
-[Nextcloud](https://nextcloud.com) is an industry-leading, on-premises content collaboration platform for file sync & share and communication server. It is fully open source and you can host it yourself or pay a company to do it for you. Also checkout the following links below:
+[Nextcloud](https://nextcloud.com) is an industry-leading, on-premises content collaboration platform for file sync & share and communication server.
+It is fully open source and you can host it yourself or pay a company to do it for you. Also checkout the following links below:
 
-   - [Nextcloud App Store](https://apps.nextcloud.com)
-
-   - [Nextcloud GitHub](https://github.com/nextcloud)
-
-   - [Nextcloud Developer Program](https://nextcloud.com/developer)
+ - [Nextcloud App Store](https://apps.nextcloud.com)
+ - [Nextcloud GitHub](https://github.com/nextcloud)
+ - [Nextcloud Developer Program](https://nextcloud.com/developer)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/150701961-ac8be115-34c1-4012-bd69-d1f22a10e48c.png">
